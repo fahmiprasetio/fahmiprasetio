@@ -3,8 +3,7 @@
 </p>
 
 
-
-
+#Hello There! I'm Fahmi
 🎓 I'm currently a student at UPN "Veteran" Jakarta  <br>🧠 I’m currently learning React, Tailwind CSS, and building side projects  <br>💬 Ask me about Frontend Development, UI Design, or anything web-related  <br>📫 How to reach me: mangalbert15620@gmail.com<br>
 
 
