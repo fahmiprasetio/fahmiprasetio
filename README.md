@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fahmiprasetio/fahmiprasetio/main/assets/download.gif" alt="Banner" style="width:100%; height:250px;" />
+  <img src="https://raw.githubusercontent.com/fahmiprasetio/fahmiprasetio/main/assets/calon.gif" alt="Banner" " />
 </p>
 
 
