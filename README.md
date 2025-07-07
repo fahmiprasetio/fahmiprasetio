@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fahmiprasetio/fahmiprasetio/main/assets/banner3.gif" alt="Banner" style="border-radius:20px;"/>
+  <img src="https://raw.githubusercontent.com/fahmiprasetio/fahmiprasetio/main/assets/banner3.gif" alt="Banner" style="border-radius:20;"/>
 </p>
 
 
