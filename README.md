@@ -4,8 +4,6 @@
 
 
 # Hello There! I'm Fahmi
-🎓 I'm currently a student at UPN "Veteran" Jakarta  <br>🧠 I’m currently learning React, Tailwind CSS, and building side projects  <br>💬 Ask me about Frontend Development, UI Design, or anything web-related  <br>📫 How to reach me: nfahmi086@gmail.com<br> ⚒️ You can check my portfolio at <a href="https://fahmi-prasetio.vercel.app/" target="_blank">https://fahmi-prasetio.vercel.app/</a>
-
 
 
 ## 🌐 Socials:
