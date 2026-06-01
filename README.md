@@ -27,13 +27,15 @@ I am a Full-Stack Developer and UI/UX Designer focused on building clean, intera
 - Creative and Animation: GSAP, Three.js, Parallax Visuals
 - UI/UX Tools: Figma, Wireframing, and Prototyping
 
-### Back-End and Data Transformation
-- Node.js: Server-side development and API design
-- Data Integration: Pentaho Data Integration (Spoon) and Big Data fundamentals
+### Back-End Development and Data Engineering
+- Server-Side Architecture: Designing and implementing scalable APIs and microservices using Node.js.
+- Enterprise Data Integration: Architecting robust ETL (Extract, Transform, Load) pipelines and data transformation workflows using Pentaho Data Integration for complex Big Data ecosystems.
 
-### Cloud and DevOps (Growing Skills)
-- Cloud Platforms: Microsoft Azure (Virtual Machines, Cloud Architecture)
-- Version Control: Git and GitHub (Managing private and public repositories)
+### Cloud Engineering and DevOps
+- Cloud Infrastructure: Provisioning, managing, and optimizing cloud resources and Virtual Machines (VMs) within the Microsoft Azure ecosystem, focusing on high availability and scalable cloud architecture.
+- Continuous Integration & Deployment (CI/CD): Designing and maintaining automated build and deployment pipelines using Jenkins to streamline development workflows.
+- Infrastructure Access & Security: Implementing secure, identity-aware access management and infrastructure connectivity using Teleport.
+- Version Control & Workflow: Managing complex repository environments and collaborative development workflows via Git and GitHub.
 
 ---
 
