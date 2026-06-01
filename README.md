@@ -7,8 +7,6 @@
 
 ---
 
-# Naufal Fahmi Prasetio
-
 I am a Full-Stack Developer and UI/UX Designer focused on building clean, interactive, and user-centric web applications. With a solid background in creating seamless front-end experiences, I am currently expanding my expertise toward Cloud Engineering to architect scalable, robust, and secure cloud infrastructure.
 
 ---
