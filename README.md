@@ -56,7 +56,7 @@ I am a Software Engineer focused on reliable systems, data integrity, and mainta
 ## Engineering Practices
 
 ### Data Integrity and Concurrency
-I use database constraints, transactions, and concurrency controls to enforce business rules. My projects include serializable isolation, optimistic versioning, and row locking to prevent duplicate order claims and overselling.
+I use database constraints, transactions, and concurrency controls to enforce business rules. These include serializable isolation, optimistic versioning, and row locking to protect shared data during concurrent requests.
 
 ### Security and Verification
 I implement authorization, rate limits, webhook signature verification, and server-side validation. Sensitive operations such as price calculation and stock reservation are handled on the server.
@@ -66,31 +66,6 @@ I build event-driven updates for application clients and account for unreliable 
 
 ### Testing and Maintainability
 I use automated tests to check application behavior and quality gates to catch regressions before deployment. I have worked on production framework migrations, test coverage improvements, and CI pipeline integration.
-
----
-
-## Selected Projects
-
-### [UPNVJ Suruh](https://github.com/fahmiprasetio/UPNVJ_Suruh_MobileApp)
-A campus errand platform with a Flutter application, a React administration dashboard, and an ASP.NET Core backend.
-
-- Prevents competing runners from claiming the same order through transaction isolation, unique constraints, and optimistic concurrency checks.
-- Delivers live order updates through SignalR, with polling as a fallback.
-- Implements OTP authentication with hashed codes, constant-time comparison, and phone-number-based rate limits.
-
-### [Spurr](https://github.com/fahmiprasetio/Spurr-Website)
-A car rental application built with Next.js, TypeScript, Prisma, and PostgreSQL.
-
-- Supports rental management through a role-based administration panel.
-- Records rental status changes in an audit log.
-- Reconciles payment events through webhooks and sends automated notifications.
-
-### [Lonjak](https://github.com/fahmiprasetio/Pesta_Pora_Ticket_Pass)
-A ticketing application designed for flash-sale traffic and concurrent purchases.
-
-- Uses atomic stock reservation and PostgreSQL row locking to prevent overselling.
-- Includes a waiting-room queue, order management, and QR-based ticket verification.
-- Applies API rate limits to control request volume.
 
 ---
 
