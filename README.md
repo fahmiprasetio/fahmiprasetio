@@ -7,65 +7,74 @@
 
 ---
 
-I am a Software Engineer focused on reliable systems, data integrity, and maintainable architecture. I develop applications end to end, from database schemas and business logic to client applications, automated tests, and deployment pipelines.
+I am a Software Engineer focused on application architecture, backend systems, and data reliability. I am currently expanding my expertise in cloud engineering, infrastructure, and deployment automation.
 
 ---
 
 ## About Me
 
-- Engineering Focus: Application architecture, relational databases, and real-time systems.
-- System Reliability: Transaction safety, concurrency control, and predictable behavior under load.
-- Security: Authentication, authorization, rate limiting, and request verification.
-- Delivery: Automated testing, code quality checks, and reproducible deployments.
-- Development Approach: Understand the constraints, make technical tradeoffs explicit, and verify behavior with tests.
+- Current Focus: Software engineering, backend development, and database systems.
+- Expanding Into: Cloud architecture, infrastructure management, and automated deployments.
+- Technical Interests: Concurrent systems, real-time communication, application security, and performance.
+- Engineering Priorities: Correctness, maintainability, testability, and operational reliability.
 
 ---
 
 ## Tech Stack and Tools
 
 ### Languages
-- TypeScript, JavaScript, C#, Python, Dart, PHP, C++
+- TypeScript, JavaScript, Go (Golang), C#, Python, Dart, PHP, C++
 
 ### Application Frameworks and Design
 - Frameworks: React, Next.js, Vue.js, Nuxt.js
-- Styling and State: HTML5, CSS3, Tailwind CSS, Zustand, Pinia
+- State Management: Zustand, Pinia
+- Styling: CSS, Tailwind CSS
 - Animation and Graphics: GSAP, Three.js, Framer Motion
 - Design: Interface design, wireframing, and prototyping
 
 ### Mobile Development
 - Frameworks: Flutter, React Native
 - State Management: Riverpod
-- Integration: REST APIs, real-time updates, and polling fallbacks
+- API Integration: REST APIs, authentication flows, and client-side state synchronization
+- Connectivity: Real-time subscriptions, connection handling, and polling fallbacks
 
-### Backend Development and Data Engineering
-- Frameworks: Node.js, Express.js, ASP.NET Core, FastAPI
-- Real-Time Communication: SignalR
-- Databases: PostgreSQL, MySQL, MongoDB, Redis
+### Backend Development
+- Languages and Runtimes: Go (Golang), C# / .NET, Node.js, Python
+- Frameworks: ASP.NET Core, Express.js, FastAPI
+- APIs: REST endpoints, request validation, and business logic implementation
+- Real-Time Communication: SignalR, event broadcasting, and client synchronization
+- External Integration: Webhook handling, signature verification, and event reconciliation
+
+### Databases and Data Engineering
+- Relational Databases: PostgreSQL, MySQL
+- Document Storage and Caching: MongoDB, Redis
 - Data Access: Prisma, Entity Framework Core
-- Data Integration: ETL pipelines and transformation workflows with Pentaho Data Integration
+- Schema Design: Relational modeling, unique constraints, and schema migrations
+- Transactions: Serializable isolation, row locking, and optimistic concurrency control
+- Data Integration: ETL pipelines and data transformation with Pentaho Data Integration
 
-### Infrastructure, Testing, and Delivery
+### Application Security
+- Access Control: Authentication, role-based authorization, and API access checks
+- Authentication Flows: OTP generation, hashed credentials, and constant-time comparison
+- Request Protection: Rate limiting, server-side validation, and webhook signature verification
+- Data Protection: Server-side price computation and transactional stock updates
+
+### Testing and Code Quality
+- Test Tools: Jest, Vitest, .NET test suites
+- Verification: Unit testing, test coverage analysis, and regression checks
+- Quality Gates: SonarQube analysis within CI pipelines
+- Maintenance: Framework migrations, dependency updates, and application refactoring
+
+### Cloud Engineering and Infrastructure
+- Current Learning Focus: Cloud architecture, virtual machines, networking, and service availability
 - Containers: Docker, Docker Compose
-- CI/CD: Jenkins
-- Testing and Quality: Jest, Vitest, .NET test suites, SonarQube
+- Infrastructure Focus: Self-managed application services, database configuration, and access management
+- Deployment Configuration: Environment variables, container configuration, and application settings
+
+### CI/CD and Development Workflow
+- Pipeline Automation: Jenkins
+- Delivery: Automated builds, test execution, code quality checks, and deployment workflows
 - Version Control: Git
-- Deployment: Container configuration, application configuration, and automated build and deployment workflows
-
----
-
-## Engineering Practices
-
-### Data Integrity and Concurrency
-I use database constraints, transactions, and concurrency controls to enforce business rules. These include serializable isolation, optimistic versioning, and row locking to protect shared data during concurrent requests.
-
-### Security and Verification
-I implement authorization, rate limits, webhook signature verification, and server-side validation. Sensitive operations such as price calculation and stock reservation are handled on the server.
-
-### Real-Time Communication
-I build event-driven updates for application clients and account for unreliable connections with polling fallbacks. This keeps order state available when a persistent connection cannot be maintained.
-
-### Testing and Maintainability
-I use automated tests to check application behavior and quality gates to catch regressions before deployment. I have worked on production framework migrations, test coverage improvements, and CI pipeline integration.
 
 ---
 
