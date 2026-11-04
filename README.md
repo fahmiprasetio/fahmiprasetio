@@ -7,22 +7,22 @@
 
 ---
 
-I am a software engineer building web, mobile, and backend systems. My work includes application development, database design, real-time communication, automated testing, and deployment workflows.
+I am a Software Engineer focused on system reliability, data integrity, and maintainable architecture.
 
 ---
 
 ## About Me
 
-- Previous Experience: Web Application Developer at Telkom Indonesia (Netmonk).
-- Current Focus: Full-stack development, data integration, and cloud infrastructure.
-- Career Goal: Grow as a software engineer working across application and infrastructure layers.
-- Engineering Approach: Build software that is reliable, maintainable, and straightforward to use.
+- Engineering Focus: Application architecture, database design, and real-time systems.
+- Reliability: Transaction safety, concurrency control, and automated testing.
+- Security: Authentication, access control, and payment verification.
+- Development Approach: Clear code, tested behavior, and explicit technical tradeoffs.
 
 ---
 
 ## Tech Stack and Tools
 
-### Web Development and Design
+### Application Frameworks and Design
 - Languages and Frameworks: JavaScript, TypeScript, React, Next.js, Vue.js, Nuxt.js, HTML5, CSS3, Tailwind CSS
 - Animation and Graphics: GSAP, Three.js, Framer Motion
 - UI/UX Tools: Figma, wireframing, and prototyping
