@@ -7,16 +7,16 @@
 
 ---
 
-I am a Full-Stack Developer and UI/UX Designer focused on building clean, interactive, and user-centric web applications. With a solid background in creating seamless front-end experiences, I am currently expanding my expertise toward Cloud Engineering to architect scalable, robust, and secure cloud infrastructure.
+I am a software engineer with experience in front-end development and an interest in building applications across the stack. My work spans web interfaces, backend services, data integration, and cloud infrastructure.
 
 ---
 
 ## About Me
 
 - Previous Experience: Front-End Developer Intern at Telkom Indonesia (Netmonk).
-- Current Focus: Advanced Full-Stack development, UI/UX optimization, and deep-diving into Cloud architectures.
-- Career Goal: Aspiring Cloud Engineer dedicated to bridging the gap between beautiful front-end interfaces and powerful cloud solutions.
-- Design Philosophy: Code should not only be functional but also intuitive and visually refined.
+- Current Focus: Full-stack development, data integration, and cloud infrastructure.
+- Career Goal: Grow as a software engineer working across application and infrastructure layers.
+- Engineering Approach: Build software that is reliable, maintainable, and straightforward to use.
 
 ---
 
@@ -24,18 +24,18 @@ I am a Full-Stack Developer and UI/UX Designer focused on building clean, intera
 
 ### Front-End and Design
 - Languages and Frameworks: React, TypeScript, Next.js / Nuxt.js, HTML5, CSS3, Tailwind CSS
-- Creative and Animation: GSAP, Three.js, Parallax Visuals
-- UI/UX Tools: Figma, Wireframing, and Prototyping
+- Animation and Graphics: GSAP, Three.js, parallax effects
+- UI/UX Tools: Figma, wireframing, and prototyping
 
 ### Back-End Development and Data Engineering
-- Server-Side Architecture: Designing and implementing scalable APIs and microservices using Node.js.
-- Enterprise Data Integration: Architecting robust ETL (Extract, Transform, Load) pipelines and data transformation workflows using Pentaho Data Integration for complex Big Data ecosystems.
+- Server-Side Development: APIs and microservices using Node.js.
+- Data Integration: ETL pipelines and data transformation workflows using Pentaho Data Integration.
 
 ### Cloud Engineering and DevOps
-- Cloud Infrastructure: Provisioning, managing, and optimizing cloud resources and Virtual Machines (VMs) within the Microsoft Azure ecosystem, focusing on high availability and scalable cloud architecture.
-- Continuous Integration & Deployment (CI/CD): Designing and maintaining automated build and deployment pipelines using Jenkins to streamline development workflows.
-- Infrastructure Access & Security: Implementing secure, identity-aware access management and infrastructure connectivity using Teleport.
-- Version Control & Workflow: Managing complex repository environments and collaborative development workflows via Git and GitHub.
+- Cloud Infrastructure: Cloud resources and virtual machines using Microsoft Azure.
+- Continuous Integration & Deployment (CI/CD): Build and deployment pipelines using Jenkins.
+- Infrastructure Access & Security: Infrastructure access and connectivity using Teleport.
+- Version Control & Workflow: Git and GitHub for version control and collaboration.
 
 ---
 
