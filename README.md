@@ -23,16 +23,22 @@ I am a software engineer with experience in front-end development and an interes
 ## Tech Stack and Tools
 
 ### Front-End and Design
-- Languages and Frameworks: React, TypeScript, Next.js / Nuxt.js, HTML5, CSS3, Tailwind CSS
+- Languages and Frameworks: JavaScript, TypeScript, React, Next.js, Nuxt.js, HTML5, CSS3, Tailwind CSS
 - Animation and Graphics: GSAP, Three.js, parallax effects
 - UI/UX Tools: Figma, wireframing, and prototyping
 
+### Mobile Development
+- Frameworks and Languages: Flutter, Dart, React Native
+- Services: Firebase, Supabase
+
 ### Back-End Development and Data Engineering
-- Server-Side Development: APIs and microservices using Node.js.
+- Server-Side Development: Node.js, Express.js, Python, FastAPI
+- Databases and Data Access: PostgreSQL, Redis, Prisma, Supabase
 - Data Integration: ETL pipelines and data transformation workflows using Pentaho Data Integration.
 
 ### Cloud Engineering and DevOps
 - Cloud Infrastructure: Cloud resources and virtual machines using Microsoft Azure.
+- Containers: Docker and Docker Compose.
 - Continuous Integration & Deployment (CI/CD): Build and deployment pipelines using Jenkins.
 - Infrastructure Access & Security: Infrastructure access and connectivity using Teleport.
 - Version Control & Workflow: Git and GitHub for version control and collaboration.
